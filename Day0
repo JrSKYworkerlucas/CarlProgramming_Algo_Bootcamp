@@ -1,0 +1,9 @@
+Date: 27/12/2022
+Title: Let's Do some Preparation
+
+These days I am learning the VIM keymap. But the VIM mode of origin editor in Leetcode website has nuance with the one in VS code. So I decide to install the Leetcode plugin at VScode.  
+
+Step 1. Install the Leetcode plugin: All you need to do is just search "Leetcode" in the VScode extension market, and click "Install" button of the first extension.
+Step 2. Since I chose to log in my account by cookie, so I need to know how to get the cookie of Leetcode website. Press F12 to open developer tool and open the console input "javascript:document.cookie" (from https://blog.csdn.net/csdn_kou/article/details/124313332). Then copy the output into login box of the extension we just installed before.
+
+Through two instructions above, I have successfully installed the Leetcode extension. So that I can use VIM keymap in the VScode and solving the Leetcode problems. 
