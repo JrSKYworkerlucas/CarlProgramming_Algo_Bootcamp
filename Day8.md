@@ -32,32 +32,33 @@ ts[1:60]
 ```
 # forget to eliminate the redundant space inside the str(s)
 elif s[j+1] == ' ':# reverse the word, and then both i and j jump into next word
-		s = s[:i] + s[i:j+1][::-1] + s[j+1:]
-		i = j
-		'''
-		# didn't skip the extra space
-		i += 2
-		j += 2
-		'''
-		'''
-		# comes a problem that the length of string will change !!!! the biggest problem of this question
-		while s[j+1] == ' ': # eliminate the redundant space 
-				j += 1
-		s = s[:i+1] + s[j:]
-		i = j 
-'''
+    s = s[:i] + s[i:j+1][::-1] + s[j+1:]
+    i = j
+    '''
+    # didn't skip the extra space
+    i += 2
+    j += 2
+    '''
+    '''
+    # comes a problem that the length of string will change !!!! the biggest problem of this question
+    while s[j+1] == ' ': # eliminate the redundant space 
+            j += 1
+    s = s[:i+1] + s[j:]
+    i = j 
+    '''
+```
 ```
 # a more succinct and correct code 
-	elif s[j+1] == ' ':# reverse the word, and then both i and j jump into next word
-	s = s[:i] + s[i:j+1][::-1] + s[j+1:]
+elif s[j+1] == ' ':# reverse the word, and then both i and j jump into next word
+    s = s[:i] + s[i:j+1][::-1] + s[j+1:]
 
-	j += 1 # now s[j] is a ' ' space
-	while s[j + 1] == ' ': # bridge the gap between two words
-			s = s[:j] + s[j+1:]
+    j += 1 # now s[j] is a ' ' space
+    while s[j + 1] == ' ': # bridge the gap between two words
+        s = s[:j] + s[j+1:]
 
-	# reset i and j 
-	j += 1
-	i = j
+    # reset i and j 
+    j += 1
+    i = j
 ```
 
 ## 5.[剑指 Offer 58 - II. 左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/submissions/)
@@ -65,10 +66,10 @@ elif s[j+1] == ' ':# reverse the word, and then both i and j jump into next word
 - A funny way to subtract the string
 ```
 def reverseLeftWords(self, s: str, n: int) -> str:
-	new_str = ''
-	for i in range(len(s)):
-			j = (i+n) % len(s)  # Using mod is a new method to me. I should remember this. 
-			new_str += s[j]
+    new_str = ''
+    for i in range(len(s)):
+        j = (i+n) % len(s)  # Using mod is a new method to me. I should remember this. 
+        new_str += s[j]
 
-	return new_str
+return new_str
 ```
