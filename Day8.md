@@ -24,7 +24,7 @@ ts[1:60]
 ## 3.[剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)
 ### Note
 - The length of the string may change!!
-- When using two pointers, notice that the movement of `new_tail`. Move it carefully 
+- When using two pointers, notice that the movement of `new_tail`. Move it carefully.
 
 ## 4.[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 ### Note
@@ -63,7 +63,7 @@ elif s[j+1] == ' ':# reverse the word, and then both i and j jump into next word
 
 ## 5.[剑指 Offer 58 - II. 左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/submissions/)
 ### Note
-- A funny way to subtract the string
+- A funny way to subtract the string. Using the mod.
 ```
 def reverseLeftWords(self, s: str, n: int) -> str:
     new_str = ''
