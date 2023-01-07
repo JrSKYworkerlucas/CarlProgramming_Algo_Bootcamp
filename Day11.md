@@ -12,8 +12,7 @@
 ### Note
 - Simplfy the processing through 
 ```stack.append(
-      int(eval(f'{second_num} {item} {first_num}'))   # 第一个出来的在运算符后面
-    )
+      int(eval(f'{second_num} {item} {first_num}')))   # 第一个出来的在运算符后面
 ```
 
 
