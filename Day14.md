@@ -1,4 +1,4 @@
-#DAY14 | Preorder/Inorder/Postorder Traversal
+# DAY14 | Preorder/Inorder/Postorder Traversal
 
 ## [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 ## [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
