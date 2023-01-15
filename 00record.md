@@ -44,7 +44,7 @@
 |17 |[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/discussion/)|Binary Tree |
 |17 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Binary Tree |
 |17 |[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/)|Binary Tree |
-|18 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|NOTE |
+|18 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|Binary Tree |
 |18 |[112. Path Sum](https://leetcode.com/problems/path-sum/description/)|Binary Tree |
 |18 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|Binary Tree |
 |18 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|Binary Tree |
