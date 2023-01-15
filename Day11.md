@@ -4,7 +4,7 @@
 ### Note
 - When meeting the left side of the parentheses `(, [, {`, append the right side of them `), ], }` into the recording list, can simplify the processing of matching judgement.
 
-## [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)1047
+## [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
 ### Note
 -
 
