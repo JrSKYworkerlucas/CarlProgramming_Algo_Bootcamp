@@ -2,11 +2,10 @@
 
 | DAY |LEETCODE LINK | MEMO |
 |  ----  | ----  | ----  |
-|DAYNUM |   |NOTE |
-|01|[Leetcode No.704 Binary Search](https://leetcode.com/problems/binary-search/) |Binary Research |
-|01 |[Leetcode No.27 Remove Element](https://leetcode.com/problems/remove-element/)|Two Pointers |
-|02 | [Leetcode No.977 Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  |Two Pointers |
-|02 |  [Leetcode No.209 Minimun Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/) | Two Pointers |
+|01|[704. Binary Search](https://leetcode.com/problems/binary-search/) |Binary Research |
+|01 |[27. Remove Element](https://leetcode.com/problems/remove-element/)|Two Pointers |
+|02 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  |Two Pointers |
+|02 |  [209. Minimun Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/) | Two Pointers |
 |03 |  [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |Linked List |
 |03 |[707. Design Linked List](https://leetcode.com/problems/design-linked-list/)|Linked List |
 |03 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Linked List |
@@ -36,8 +35,7 @@
 |14 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Binary Tree|
 |14 |[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|Binary Tree |
 |14 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Binary Tree |
-|15 |[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
-|Binary Tree |
+|15 |[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|Binary Tree |
 |15 |[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|Binary Tree |
 |15 |[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|Binary Tree |
 |16 |[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Binary Tree |
