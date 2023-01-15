@@ -43,14 +43,15 @@
 |16 |[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Binary Tree |
 |16 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|Binary Tree |
 |16 |[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|Binary Tree |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
+|17 |[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/discussion/)|Binary Tree |
+|17 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Binary Tree |
+|17 |[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/)|Binary Tree |
+|18 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|NOTE |
+|18 |[112. Path Sum](https://leetcode.com/problems/path-sum/description/)|Binary Tree |
+|18 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|Binary Tree |
+|18 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|Binary Tree |
+|18 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Binary Tree |
+
 |DAYNUM |   |NOTE |
 |DAYNUM |   |NOTE |
 |DAYNUM |   |NOTE |
