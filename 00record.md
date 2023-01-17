@@ -49,14 +49,13 @@
 |18 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|Binary Tree |
 |18 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|Binary Tree |
 |18 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Binary Tree |
-
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
-|DAYNUM |   |NOTE |
+|20 |[654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|Binary Tree |
+|20 |[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|Binary Tree |
+|20 |[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|Binary Tree |
+|20 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|Binary Tree |
+|21 |[530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)|Binary Tree |
+|21 |[501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)|Binary Tree |
+|21 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Binary Tree |
 |DAYNUM |   |NOTE |
 |DAYNUM |   |NOTE |
 |DAYNUM |   |NOTE |
