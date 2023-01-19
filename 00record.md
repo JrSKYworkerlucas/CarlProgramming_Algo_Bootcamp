@@ -59,6 +59,11 @@
 |22 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  |Binary Tree |
 |22 |[701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|Binary Tree |
 |22 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)  |Binary Tree |
-|DAYNUM |   |NOTE |
+|23 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)  |Binary Tree |
+|23 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  |Binary Tree |
+|23 | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)  |Binary Tree |
+|DAYNUM | []()  |NOTE |
+|DAYNUM | []()  |NOTE |
+|DAYNUM | []()  |NOTE |
 
 
