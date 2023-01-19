@@ -11,6 +11,7 @@
 - 
 ## [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 ### Note 
+- Can only solve by post order traversal. WHY? Because we need to look up the situation of `left` and `right` before deciding the boolean of `node`
 - 2 similar questions:
 -- [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
 -- [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
