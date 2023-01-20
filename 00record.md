@@ -62,7 +62,7 @@
 |23 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)  |Binary Tree |
 |23 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  |Binary Tree |
 |23 | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)  |Binary Tree |
-|DAYNUM | []()  |NOTE |
+|24 | [77. Combinations](https://leetcode.com/problems/combinations/)  |BackTracking |
 |DAYNUM | []()  |NOTE |
 |DAYNUM | []()  |NOTE |
 
