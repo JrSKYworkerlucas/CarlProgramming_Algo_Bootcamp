@@ -63,6 +63,8 @@
 |23 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  |Binary Tree |
 |23 | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)  |Binary Tree |
 |24 | [77. Combinations](https://leetcode.com/problems/combinations/)  |BackTracking |
+|29 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)  |BackTracking |
+|29 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)  |BackTracking |
 |DAYNUM | []()  |NOTE |
 |DAYNUM | []()  |NOTE |
 
