@@ -65,6 +65,10 @@
 |24 | [77. Combinations](https://leetcode.com/problems/combinations/)  |BackTracking |
 |29 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)  |BackTracking |
 |29 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)  |BackTracking |
+|30 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) |BackTracking |
+|30 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |BackTracking |
+|30 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) |BackTracking |
+|DAYNUM | []()  |NOTE |
 |DAYNUM | []()  |NOTE |
 |DAYNUM | []()  |NOTE |
 
