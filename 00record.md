@@ -68,8 +68,9 @@
 |30 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) |BackTracking |
 |30 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |BackTracking |
 |30 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) |BackTracking |
-|DAYNUM | []()  |NOTE |
-|DAYNUM | []()  |NOTE |
-|DAYNUM | []()  |NOTE |
+|31 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)  |BackTracking |
+|31 | [78. Subsets](https://leetcode.com/problems/subsets/)  |BackTracking |
+|31 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) |BackTracking |
 
+|DAYNUM | []()  |NOTE |
 
