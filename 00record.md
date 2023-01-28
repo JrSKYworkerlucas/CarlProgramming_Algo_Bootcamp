@@ -72,8 +72,7 @@
 |31 | [78. Subsets](https://leetcode.com/problems/subsets/)  |BackTracking |
 |31 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) |BackTracking |
 |32 | [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/) |BackTracking |
-|32 | [46. Permutations](https://leetcode.com/problems/permutations/description/)
- |BackTracking ||
+|32 | [46. Permutations](https://leetcode.com/problems/permutations/description/) |BackTracking |
 |32 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) |BackTracking |
 |DAYNUM | []()  |NOTE |
 
