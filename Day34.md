@@ -7,6 +7,6 @@
 
 ## [51. N-Queens](https://leetcode.com/problems/n-queens/)
 ## [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
-###Note:
+### Note:
 -- You can finish this question at first [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/).
 
