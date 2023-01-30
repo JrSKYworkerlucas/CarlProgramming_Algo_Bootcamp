@@ -74,5 +74,8 @@
 |32 | [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/) |BackTracking |
 |32 | [46. Permutations](https://leetcode.com/problems/permutations/description/) |BackTracking |
 |32 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) |BackTracking |
-|DAYNUM | []()  |NOTE |
+|34 | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)  |BackTracking |
+|34 |[51. N-Queens](https://leetcode.com/problems/n-queens/)|BackTracking |
+|34 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|BackTracking |
+|DAYNUM |   |NOTE |
 
