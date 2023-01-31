@@ -77,5 +77,8 @@
 |34 | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)  |BackTracking |
 |34 |[51. N-Queens](https://leetcode.com/problems/n-queens/)|BackTracking |
 |34 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|BackTracking |
+|35 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)  |Greedy |
+|35 | [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/) |Greedy |
+|35 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)  |Greedy |
 |DAYNUM |   |NOTE |
 
