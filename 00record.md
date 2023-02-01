@@ -80,5 +80,10 @@
 |35 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)  |Greedy |
 |35 | [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/) |Greedy |
 |35 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)  |Greedy |
+|36 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|Greedy |
+|36 |[55. Jump Game](https://leetcode.com/problems/jump-game/description/)|Greedy |
+|36 |[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|Greedy |
+
+|DAYNUM |   |NOTE |
 |DAYNUM |   |NOTE |
 
