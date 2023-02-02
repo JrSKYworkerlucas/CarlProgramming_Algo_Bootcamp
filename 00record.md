@@ -83,7 +83,9 @@
 |36 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|Greedy |
 |36 |[55. Jump Game](https://leetcode.com/problems/jump-game/description/)|Greedy |
 |36 |[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|Greedy |
+|37 |[1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/)|Greedy |
+|37 |[134. Gas Station](https://leetcode.com/problems/gas-station/description/)|Greedy |
+|37 |[135. Candy](https://leetcode.com/problems/candy/description/)|Greedy |
 
-|DAYNUM |   |NOTE |
 |DAYNUM |   |NOTE |
 
