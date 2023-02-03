@@ -86,6 +86,9 @@
 |37 |[1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/)|Greedy |
 |37 |[134. Gas Station](https://leetcode.com/problems/gas-station/description/)|Greedy |
 |37 |[135. Candy](https://leetcode.com/problems/candy/description/)|Greedy |
+|38 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)  |Greedy |
+|38 |[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|Greedy |
+|38 |[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|Greedy |
 
 |DAYNUM |   |NOTE |
 
