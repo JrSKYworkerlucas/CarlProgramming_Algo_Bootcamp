@@ -89,6 +89,11 @@
 |38 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)  |Greedy |
 |38 |[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|Greedy |
 |38 |[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)|Greedy |
-
+|39 |   |Greedy |
+|39 |   |Greedy |
+|39 |   |Greedy |
+[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+[763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 |DAYNUM |   |NOTE |
 
