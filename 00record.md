@@ -92,6 +92,9 @@
 |39 |[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|Greedy |
 |39 |[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|Greedy |
 |39 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|Greedy |
+|41 |[738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)|Greedy |
+|41 |[714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Greedy |
+|41 |[968. Binary Tree Cameras](968. Binary Tree Cameras)|Greedy |
 
 |DAYNUM |   |NOTE |
 
