@@ -95,8 +95,12 @@
 |41 |[738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/)|Greedy |
 |41 |[714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Greedy |
 |41 |[968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|Greedy |
-|43 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Dynamic Programming |
-|43 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming |
-|43 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Dynamic Programming |
+|42 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Dynamic Programming |
+|42 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming |
+|42 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Dynamic Programming |
+|43 |[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|Dynamic Programming |
+|43 |[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Dynamic Programming |
+
 |DAYNUM |   |NOTE |
+
 
