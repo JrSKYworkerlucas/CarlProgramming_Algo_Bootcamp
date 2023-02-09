@@ -100,7 +100,8 @@
 |42 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Dynamic Programming |
 |43 |[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|Dynamic Programming |
 |43 |[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Dynamic Programming |
-
-|DAYNUM |   |NOTE |
+|44 | [343. Integer Break](https://leetcode.com/problems/integer-break/description/)  |Dynamic Programming |
+|44 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)  |Dynamic Programming |
+|44 |   |NOTE |
 
 
