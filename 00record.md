@@ -102,6 +102,7 @@
 |43 |[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Dynamic Programming |
 |44 | [343. Integer Break](https://leetcode.com/problems/integer-break/description/)  |Dynamic Programming |
 |44 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)  |Dynamic Programming |
-|44 |   |NOTE |
+|45 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)  |NOTE |
+|46 |   |NOTE |
 
 
