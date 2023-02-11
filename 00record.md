@@ -102,7 +102,11 @@
 |43 |[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Dynamic Programming |
 |44 | [343. Integer Break](https://leetcode.com/problems/integer-break/description/)  |Dynamic Programming |
 |44 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)  |Dynamic Programming |
-|45 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)  |NOTE |
-|46 |   |NOTE |
+|45 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)  |Dynamic Programming |
+|46 |[1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/)|Dynamic Programming |
+|46 |[494. Target Sum](https://leetcode.com/problems/target-sum/)   |Dynamic Programming |
+|46 |[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)   |Dynamic Programming |
+
+|48 |   |NOTE |
 
 
