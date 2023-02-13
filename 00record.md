@@ -106,7 +106,9 @@
 |46 |[1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/)|Dynamic Programming |
 |46 |[494. Target Sum](https://leetcode.com/problems/target-sum/)   |Dynamic Programming |
 |46 |[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)   |Dynamic Programming |
+|48 |[518. Coin Change II](https://leetcode.com/problems/coin-change-ii/)|Dynamic Programming|
+|48 |[377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|Dynamic Programming|
 
-|48 |   |NOTE |
+|49 |   |NOTE |
 
 
