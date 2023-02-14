@@ -108,7 +108,9 @@
 |46 |[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)   |Dynamic Programming |
 |48 |[518. Coin Change II](https://leetcode.com/problems/coin-change-ii/)|Dynamic Programming|
 |48 |[377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|Dynamic Programming|
-
-|49 |   |NOTE |
+|49 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming |
+|49 |[322. Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming |
+|49 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Dynamic Programming |
+|50 |   |NOTE |
 
 
