@@ -111,6 +111,21 @@
 |49 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming |
 |49 |[322. Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming |
 |49 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Dynamic Programming |
-|50 |   |NOTE |
+|50 | [139. Word Break](https://leetcode.com/problems/word-break/)|Dynamic Programming |
+|51 | [198. House Robber](https://leetcode.com/problems/house-robber/)|Dynamic Programming |
+|51 |[213. House Robber II](https://leetcode.com/problems/house-robber-ii/)|Dynamic Programming |
+|51 |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/)|Dynamic Programming |
+|52 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Dynamic Programming |
+|52 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Dynamic Programming |
+|53 |[123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|Dynamic Programming |
+|53 |[188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|Dynamic Programming |
+
+
+
+
+|54 |   |Dynamic Programming |
+|54 |   |Dynamic Programming |
+
+
 
 
