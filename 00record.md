@@ -119,12 +119,13 @@
 |52 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Dynamic Programming |
 |53 |[123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|Dynamic Programming |
 |53 |[188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|Dynamic Programming |
+|55 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|Dynamic Programming |
+|55 |[674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|Dynamic Programming |
+|55 |[718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|Dynamic Programming |
 
-
-
-
-|54 |   |Dynamic Programming |
-|54 |   |Dynamic Programming |
+|56 |   |Dynamic Programming |
+|55 |   |Dynamic Programming |
+|55 |   |Dynamic Programming |
 
 
 
