@@ -122,11 +122,12 @@
 |55 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|Dynamic Programming |
 |55 |[674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|Dynamic Programming |
 |55 |[718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|Dynamic Programming |
+|56 |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Dynamic Programming |
+|56 |[1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|Dynamic Programming |
+|56 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Dynamic Programming |
 
-|56 |   |Dynamic Programming |
 |55 |   |Dynamic Programming |
 |55 |   |Dynamic Programming |
-
 
 
 
