@@ -125,9 +125,11 @@
 |56 |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Dynamic Programming |
 |56 |[1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|Dynamic Programming |
 |56 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Dynamic Programming |
+|57 |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Dynamic Programming |
+|57 |[1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|Dynamic Programming |
+|57 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Dynamic Programming |
 
-|55 |   |Dynamic Programming |
-|55 |   |Dynamic Programming |
+|57 |   |Dynamic Programming |
 
 
 
