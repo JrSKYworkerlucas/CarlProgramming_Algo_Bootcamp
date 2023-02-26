@@ -132,12 +132,11 @@
 |58 |[115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|Dynamic Programming |
 |59 |[583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|Dynamic Programming |
 |59 |[72. Edit Distance](https://leetcode.com/problems/edit-distance/)|Dynamic Programming |
+|60 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|Dynamic Programming |
+|60 |[516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|Dynamic Programming |
+|62 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|Monotone Priority Stack |
+|62 |[516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|Monotone Priority Stack |
 
-
-
-
-|59 |   |Dynamic Programming |
-
-
+|62|   |Monotone Priority Stack |
 
 
