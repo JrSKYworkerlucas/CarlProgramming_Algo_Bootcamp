@@ -136,8 +136,11 @@
 |60 |[516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|Dynamic Programming |
 |62 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|Monotone Priority Stack |
 |62 |[516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|Monotone Priority Stack |
+|63|[503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)|Monotone Priority Stack |
+|63|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|Monotone Priority Stack |
 
 
-|62|   |Monotone Priority Stack |
+
+|64|   |Monotone Priority Stack |
 
 
