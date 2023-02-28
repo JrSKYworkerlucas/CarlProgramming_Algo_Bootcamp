@@ -138,9 +138,6 @@
 |62 |[516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|Monotone Priority Stack |
 |63|[503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)|Monotone Priority Stack |
 |63|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|Monotone Priority Stack |
-
-
-
-|64|   |Monotone Priority Stack |
+|64|[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)   |Monotone Priority Stack |
 
 
