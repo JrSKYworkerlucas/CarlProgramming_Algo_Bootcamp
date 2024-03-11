@@ -11,7 +11,26 @@ This is for recording the leetcode questions shown in the book of labuladong. Th
 | 04  |[354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|
 | 05  |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|
 | 06  |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)|
-| 02  |[ ](  )|
-| 02  |[ ](  )|
+| 07  |([72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)|
+| 08  |[516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|
+|Then try to use compression for above question that used 2-D DP table||
+| 0  |[ ]()|
 
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
 
