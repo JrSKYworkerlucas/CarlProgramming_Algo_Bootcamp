@@ -3,18 +3,18 @@ This is for recording the leetcode questions shown in the book of labuladong. Th
 ## Dynamic Programming
 | No. | Link |
 |-----|------|
-|chapter1||
+||chapter1|
 | 01  |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/])|
 | 02  |[322. Coin Change](https://leetcode.com/problems/coin-change/description/)|
-|chapter2||
+||chapter2|
 | 03  |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|
 | 04  |[354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)|
 | 05  |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|
 | 06  |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)|
-| 07  |([72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)|
+| 07  |[72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)|
 | 08  |[516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|
-|Then try to use compression for above question that used 2-D DP table||
-| 0  |[ ]()|
+||Then try to use compression for above question that used 2-D DP table|
+| 09  |[1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)|
 
 | 0  |[ ]()|
 
