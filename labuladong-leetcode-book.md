@@ -15,12 +15,9 @@ This is for recording the leetcode questions shown in the book of labuladong. Th
 | 08  |[516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|
 ||Then try to use compression for above question that used 2-D DP table|
 | 09  |[1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)|
-
-| 0  |[ ]()|
-
-| 0  |[ ]()|
-
-| 0  |[ ]()|
+| 10  |[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)  https://www.youtube.com/watch?v=l3hda49XcDE|
+| 11 |[651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/description/)|
+| 12  |[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)|
 
 | 0  |[ ]()|
 
