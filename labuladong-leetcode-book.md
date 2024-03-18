@@ -18,8 +18,7 @@ This is for recording the leetcode questions shown in the book of labuladong. Th
 | 10  |[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)  https://www.youtube.com/watch?v=l3hda49XcDE|
 | 11 |[651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/description/)|
 | 12  |[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)|
-
-| 0  |[ ]()|
+| 13  |[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|
 
 | 0  |[ ]()|
 
