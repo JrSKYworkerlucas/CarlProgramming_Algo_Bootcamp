@@ -19,11 +19,9 @@ This is for recording the leetcode questions shown in the book of labuladong. Th
 | 11 |[651. 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/description/)|
 | 12  |[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)|
 | 13  |[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|
-
-| 0  |[ ]()|
-
-| 0  |[ ]()|
-
+| 14  | knapsack problem, no pure knapsack problem in leetcode|
+| 15  |[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|
+| 16 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)|
 | 0  |[ ]()|
 
 | 0  |[ ]()|
