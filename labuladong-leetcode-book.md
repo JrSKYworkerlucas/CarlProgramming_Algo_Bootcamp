@@ -22,6 +22,22 @@ This is for recording the leetcode questions shown in the book of labuladong. Th
 | 14  | knapsack problem, no pure knapsack problem in leetcode|
 | 15  |[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|
 | 16 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)|
+| 17  |[198. House Robber](https://leetcode.com/problems/house-robber/description/)|
+| 18  |[213. House Robber II](https://leetcode.com/problems/house-robber-ii/)|
+| 19  |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/)|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
+| 0  |[ ]()|
+
 | 0  |[ ]()|
 
 | 0  |[ ]()|
