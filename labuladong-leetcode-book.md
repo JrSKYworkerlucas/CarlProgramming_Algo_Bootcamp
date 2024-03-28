@@ -25,8 +25,7 @@ This is for recording the leetcode questions shown in the book of labuladong. Th
 | 17  |[198. House Robber](https://leetcode.com/problems/house-robber/description/)|
 | 18  |[213. House Robber II](https://leetcode.com/problems/house-robber-ii/)|
 | 19  |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/)|
-
-| 0  |[ ]()|
+| 20  |[494. Target Sum](https://leetcode.com/problems/target-sum/)|
 
 | 0  |[ ]()|
 
