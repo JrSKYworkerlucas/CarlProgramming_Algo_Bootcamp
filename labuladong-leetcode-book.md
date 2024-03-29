@@ -27,18 +27,19 @@ This is for recording the leetcode questions shown in the book of labuladong. Th
 | 19  |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/)|
 | 20  |[494. Target Sum](https://leetcode.com/problems/target-sum/)|
 
-| 0  |[ ]()|
+## Data Structure
+This chapter is most about the basic data structure, mainly about tree. 
+| |Chapter 3|
+| 01  |[146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)|
 
 | 0  |[ ]()|
 
 | 0  |[ ]()|
-
 | 0  |[ ]()|
-
 | 0  |[ ]()|
-
 | 0  |[ ]()|
-
+| 0  |[ ]()|
+| 0  |[ ]()|
 | 0  |[ ]()|
 
 | 0  |[ ]()|
