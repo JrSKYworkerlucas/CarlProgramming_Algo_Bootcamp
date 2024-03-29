@@ -29,7 +29,9 @@ This is for recording the leetcode questions shown in the book of labuladong. Th
 
 ## Data Structure
 This chapter is most about the basic data structure, mainly about tree. 
+
 | |Chapter 3|
+|-----|-----|
 | 01  |[146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)|
 
 | 0  |[ ]()|
