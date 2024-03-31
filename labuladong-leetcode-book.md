@@ -29,19 +29,21 @@ This is for recording the leetcode questions shown in the book of labuladong. Th
 
 ## Data Structure
 This chapter is most about the basic data structure, mainly about tree. 
-
+| No. | Link |
+|-----|------|
 | |Chapter 3|
-|-----|-----|
 | 01  |[146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)|
 | 02  |[460. LFU Cache](https://leetcode.com/problems/lfu-cache/)|
 
 | 0  |[ ]()|
 | 0  |[ ]()|
 | 0  |[ ]()|
-| 0  |[ ]()|
-| 0  |[ ]()|
-| 0  |[ ]()|
-| 0  |[ ]()|
+
+## Sliding window
+| 01  |[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|
+| 02  |[567]()|
+| 0  |[438]()|
+| 0  |[3]()|
 
 | 0  |[ ]()|
 
