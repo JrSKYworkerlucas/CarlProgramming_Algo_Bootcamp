@@ -34,7 +34,6 @@ This chapter is most about the basic data structure, mainly about tree.
 | |Chapter 3|
 | 01  |[146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)|
 | 02  |[460. LFU Cache](https://leetcode.com/problems/lfu-cache/)|
-
 | 0  |[ ]()|
 | 0  |[ ]()|
 | 0  |[ ]()|
@@ -53,11 +52,11 @@ This chapter is most about the basic data structure, mainly about tree.
 |-----|------|
 | |Chapter 1|
 | 01 |[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|
-| 02  |[105]()|
+| 02  |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|
 | 03  |[99]()|
-| 0  |[ ]()|
-| 0  |[ ]()|
-| 0  |[ ]()|
+|   |Chapter 3|
+| 04 |[100. Same Tree](https://leetcode.com/problems/same-tree/description/)|
+| 05 |[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|
 | 0  |[ ]()|
 | 0  |[ ]()|
 | 0  |[ ]()|
