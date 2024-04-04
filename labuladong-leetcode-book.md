@@ -61,3 +61,13 @@ This chapter is most about the basic data structure, mainly about tree.
 | 0  |[ ]()|
 | 0  |[ ]()|
 
+## Backtracking
+| No. | Link |
+|-----|------|
+| |Chapter 1|
+| 01 |[46. Permutations](https://leetcode.com/problems/permutations/description/)|
+||[]()|
+|||
+|||
+|||
+|||
