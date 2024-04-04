@@ -66,7 +66,7 @@ This chapter is most about the basic data structure, mainly about tree.
 |-----|------|
 | |Chapter 1|
 | 01 |[46. Permutations](https://leetcode.com/problems/permutations/description/)|
-||[]()|
+| 02 |[51. N-Queens](https://leetcode.com/problems/n-queens/)|
 |||
 |||
 |||
