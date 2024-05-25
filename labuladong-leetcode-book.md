@@ -59,7 +59,7 @@ This chapter is most about the basic data structure, mainly about tree.
 | 05 |[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|
 | 06 |[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|
 | 07 |[450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)|
-| 0  |[ ]()|
+| 08 |[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)|
 | 0  |[ ]()|
 
 ## Backtracking
